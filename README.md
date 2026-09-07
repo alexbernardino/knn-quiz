@@ -1,6 +1,6 @@
 # KNN Concept Check
 
-An interactive, formative quiz that accompanies [KNN Interactive](https://alexbernardino.github.io/knn-interactive/). Ten questions give immediate feedback about neighbourhood size, class overlap, accuracy, precision, distance weighting, consistency, and predictor variance.
+An interactive, formative quiz that accompanies [KNN Interactive](https://alexbernardino.github.io/knn-interactive/). Ten questions give immediate feedback about neighbourhood size, class overlap, accuracy, distance weighting, consistency, and predictor variance.
 
 ## Test locally
 

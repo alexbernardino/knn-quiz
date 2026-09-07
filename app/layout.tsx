@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   description: 'An interactive formative quiz about K-nearest neighbours, model performance, consistency, and predictor variance.',
   openGraph: {
     title: 'KNN Concept Check',
-    description: 'Explore accuracy, precision, consistency and predictor variance.',
+    description: 'Explore K, accuracy, consistency and predictor variance.',
     url: 'https://alexbernardino.github.io/knn-quiz/',
     type: 'website',
     images: [{ url: 'https://alexbernardino.github.io/knn-quiz/og.png', width: 1536, height: 1024 }],
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'KNN Concept Check',
-    description: 'Explore accuracy, precision, consistency and predictor variance.',
+    description: 'Explore K, accuracy, consistency and predictor variance.',
     images: ['https://alexbernardino.github.io/knn-quiz/og.png'],
   },
 };
